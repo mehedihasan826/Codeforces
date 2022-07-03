@@ -14,5 +14,6 @@ int main()
             else if(s[i]=='-' && s[i+1]=='-'){cout<<"2";i++;}
         }
         cout<<endl;
+        cout<<"Hello"<<endl;
 }
 
